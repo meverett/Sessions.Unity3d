@@ -1,0 +1,39 @@
+﻿Afrikaans	af-ZA	Afrikaans
+العربية	ar	Arabic
+Euskara (Espainia)	eu-ES	Basque
+Български (България)	bg-BG	Bulgarian
+Català (Espanya)	ca-ES	Catalan
+國語 (台灣)	cmn-Hant-TW	ChineseTraditional
+普通话 (中国大陆)	cmn-Hans-CN	ChineseSimplified
+Čeština (Česká republika)	cs-CZ	Czech
+Dansk (Danmark)	da-DK	Danish
+Nederlands (Nederland)	nl-NL	Dutch
+English (United States)	en-US	English
+English (United Kingdom)	en-GB	English
+Suomi (Suomi)	fi-FI	Finnish
+Français (France)	fr-FR	French
+Deutsch (Deutschland)	de-DE	German
+Ελληνικά (Ελλάδα)	el-GR	Greek
+עברית (ישראל)	he-IL	Hebrew
+Íslenska (Ísland)	is-IS	Icelandic
+Jawa (Indonesia)	jv-ID	Indonesian
+Italiano (Italia)	it-IT	Italian
+日本語（日本）	ja-JP	Japanese
+한국어 (대한민국)	ko-KR	Korean
+Latviešu (latviešu)	lv-LV	Latvian
+Lietuvių (Lietuva)	lt-LT	Lithuanian
+Norsk bokmål (Norge)	nb-NO	Norwegian
+Polski (Polska)	pl-PL	Polish
+Português (Portugal)	pt-PT	Portuguese
+Română (România)	ro-RO	Romanian
+Русский (Россия)	ru-RU	Russian
+Српски (Србија)	sr-RS	SerboCroatian
+Slovenčina (Slovensko)	sk-SK	Slovak
+Slovenščina (Slovenija)	sl-SI	Slovenian
+Español (España)	es-ES	Spanish
+Svenska (Sverige)	sv-SE	Swedish
+ไทย (ประเทศไทย)	th-TH	Thai
+Türkçe (Türkiye)	tr-TR	Turkish
+Українська (Україна)	uk-UA	Ukrainian
+Tiếng Việt (Việt Nam)	vi-VN	Vietnamese
+Magyar (Magyarország)	hu-HU	Hungarian

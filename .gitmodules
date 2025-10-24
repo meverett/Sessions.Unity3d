@@ -1,0 +1,3 @@
+[submodule "Sessions.Core"]
+	path = Sessions.Core
+	url = https://github.com/CymaticLabs/Sessions.Core.git

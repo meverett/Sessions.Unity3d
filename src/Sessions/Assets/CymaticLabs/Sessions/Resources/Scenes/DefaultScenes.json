@@ -1,0 +1,27 @@
+{
+  "Name": "Default Scenes",
+  "Version": 1.0,
+  "Scenes": [
+    {
+      "Name": "The Lobby",
+      "Url": "app://SessionsLobby",
+      "ImageRes": null,
+      "ImageUrl": "",
+      "Info": "Default lobby scene. Not very interesting. Suitable for simple meetings. Loads fast."
+    },
+    {
+      "Name": "Spheres",
+      "Url": "app://SessionsSpheres",
+      "ImageRes": "Assets/CymaticLabs/Sessions/Resources/Images/CymaticLabsSplash.png",
+      "ImageUrl": "",
+      "Info": "A test scene with just a few spheres in it. Nothing too fancy."
+    },
+    {
+      "Name": "Cubes",
+      "Url": "app://SessionsCubes",
+      "ImageRes": "Assets/CymaticLabs/Sessions/Resources/Images/SessionsSplash.png",
+      "ImageUrl": "",
+      "Info": "A test scene with some cubes in it. It's hip to be square!"
+    }
+  ]
+}
